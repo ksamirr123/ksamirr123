@@ -57,15 +57,3 @@ Detail-oriented Data Analyst with hands-on experience in data cleaning, explorat
 ## 📫 Contact
 - 📧 Email: samirkhan4962@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/sameer-khan  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksamirr123&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksamirr123&layout=compact&theme=tokyonight" />
-</p>p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksamirr123&show_icons=true&locale=en" alt="ksamirr123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksamirr123&" alt="ksamirr123" /></p>
